@@ -8,7 +8,7 @@ A website created with HTML, CSS and JavaScript, bundled with Webpack.
 External Assets:
 [Hero Section image][image_link]  by [wanderson91][artist_link] on [Pixabay][pixabay_link]
 
-[demo_link]:
+[demo_link]:https://ice-cream-442885.netlify.app/
 [image_link]: https://pixabay.com/photos/sorvete-gelato-ice-cream-ver%C3%A3o-2999878/
 [artist_link]: https://pixabay.com/users/wanderson91-7288087/
 [pixabay_link]: https://pixabay.com/
